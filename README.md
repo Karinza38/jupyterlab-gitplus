@@ -1,4 +1,4 @@
-# GitPlus
+ # GitPlus
 
 A JupyterLab plugin for version control of Jupyter notebooks. It can,
 
