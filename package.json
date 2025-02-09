@@ -45,7 +45,7 @@
   "dependencies": {
     "@jupyterlab/application": "^3.0.11",
     "@jupyterlab/apputils": "^3.0.9",
-    "@jupyterlab/docregistry": "^3.0.11",
+    "@jupyterlab/docregistry": "^3.6.8",
     "@jupyterlab/fileeditor": "^3.0.11",
     "@jupyterlab/mainmenu": "^3.0.9",
     "@jupyterlab/notebook": "^3.0.11",
